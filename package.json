@@ -1,6 +1,6 @@
 {
   "name": "get-eth-balances",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/gkucmierz/get-eth-balances#readme",
   "dependencies": {
-    "args": "^5.0.0"
+    "args": "^5.0.0",
+    "request": "^2.88.0"
   }
 }
