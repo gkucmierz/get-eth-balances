@@ -1,0 +1,23 @@
+{
+  "name": "get-eth-balances",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "get-eth-balances": "bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gkucmierz/get-eth-balances.git"
+  },
+  "author": "Grzegorz Kućmierz",
+  "license": "MIT",
+  "preferGlobal": "true",
+  "bugs": {
+    "url": "https://github.com/gkucmierz/get-eth-balances/issues"
+  },
+  "homepage": "https://github.com/gkucmierz/get-eth-balances#readme"
+}
