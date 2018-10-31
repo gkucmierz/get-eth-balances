@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/gkucmierz/get-eth-balances/issues"
   },
-  "homepage": "https://github.com/gkucmierz/get-eth-balances#readme"
+  "homepage": "https://github.com/gkucmierz/get-eth-balances#readme",
+  "dependencies": {
+    "args": "^5.0.0"
+  }
 }
