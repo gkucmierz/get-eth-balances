@@ -10,11 +10,11 @@
 
 Write result to console:
 
-```get-npm-balances -i input_file```
+```get-eth-balances -i input_file```
 
 Write result to file:
 
-```get-npm-balances -i input_file > output.csv```
+```get-eth-balances -i input_file > output.csv```
 
 Example input file:
 
